@@ -171,19 +171,21 @@ content:
            
           
       - layout: top-right
-        title: ![IIIT-H Logo](/images/iiith.png "International Institute of Information Technology") \ IIIT-Hyderabad
+        title: IIIT-Hyderabad
         sub_title: B.Tech Computer Science | MS by Research in Computational Linguistics
         caption: (2018 - Present)
         #quote: Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
+          ![IIIT-H Logo](/images/iiith.png "International Institute of Information Technology")
           Description of qualification
           
       - layout: top-right
-        title: ![SPV Logo](/images/spv.png "Sardar Patel Vidyalaya") \ Sardar Patel Vidyalaya
+        title:  Sardar Patel Vidyalaya
         sub_title: High School
         caption: (2003 - 2018)
         #quote: Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
+          ![SPV Logo](/images/spv.png "Sardar Patel Vidyalaya")
           Description of qualification
           
           
