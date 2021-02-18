@@ -21,12 +21,10 @@ darkmode: false
 # Social links
 #twitter_username: jekyllrb
 github_username:  kvadityasrivatsa
-stackoverflow_username: "11038232"
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
+#stackoverflow_username: "11038232"
 #instagram_username: jekyll
 linkedin_username: kv-aditya-srivatsa
+facebook_username: kvaditya.srivatsa
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -52,7 +50,8 @@ linkedin_username: kv-aditya-srivatsa
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a 3rd year undergrad student at the [International Institute of Information Technology-Hyderabad](https://www.iiit.ac.in/), currently pursuing a dual degree with a Bachelors in Computer Science and Masters in Computational Linguistics. 
+  [links](http://foobar.com) and highlight things <mark>like this</mark>. 
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
