@@ -50,7 +50,10 @@ facebook_username: kvaditya.srivatsa
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a 3rd year undergrad student at the [International Institute of Information Technology-Hyderabad](https://www.iiit.ac.in/), currently pursuing a dual degree with a Bachelors in Computer Science and Masters in Computational Linguistics. 
+  I am a 3rd year undergrad student at the [International Institute of Information Technology-Hyderabad](https://www.iiit.ac.in/)(IIIT-H), 
+  currently pursuing a Dual Degree towards a Bachelors in Computer Science and Masters in Computational Linguistics.
+  As part of my masters, I am presently a part of the MT-NLP Lab at the Language Technology Research Centre (LTRC) at IIIT-H,
+  with Dr. Manish Shrivastava as my research advisor.
   [links](http://foobar.com) and highlight things <mark>like this</mark>. 
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -60,6 +63,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -78,6 +82,15 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+     
+      - layout: left
+        title: Extracting Latent Lexical Hie rarchy from Word Embeddings 
+        quote: >
+          (Sep 2020 - Present)
+        description: | # this will include new lines to allow paragraphs
+          Using word embeddings such as Word2Vec, GloVe & FastText to predict pairwise word hierarchy, \
+          with an aim towards an automated graph-based lexical hierarchy database.
+          
   - title: Experience
     layout: list
     content:
