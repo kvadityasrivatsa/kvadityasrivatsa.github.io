@@ -84,7 +84,15 @@ content:
       #    Short overview of the project (optional)
       #  description: | # this will include new lines to allow paragraphs
       #    Description about the work on/with the project
-     
+      
+      - layout: left
+        title: Sep 2020 - Jan 2021 
+        #quote: (Sep 2020 - Present)
+        description: | # this will include new lines
+          Mukund Choudhary, [KV Aditya Srivatsa](https://kvadityasrivatsa.github.io/), Ishan Sanjeev Upadhyay, Praneet Kumar, Priyanka Srivastava \
+          **Is convenient secure ? Exploring the impact of metacognitive beliefs in password selection**\
+          __7th Annual Conference of Congnitive Science (ACCS7)__ 2021 <mark>Conference</mark>
+          
       - layout: left
         title: Oct 2020 - Present 
         additional_links:
