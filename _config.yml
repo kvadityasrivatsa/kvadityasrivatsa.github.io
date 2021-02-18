@@ -65,33 +65,40 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
-  - title: Projects # Title for the section
+  - title: Projects & Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+    
+      #- layout: left
+      #  title: Project name
+      #  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+      #  link_text: Link Text
+      #  additional_links:
+      #    - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #      icon: fab fa-github
+      #      url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+      #    - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #      icon: fab fa-github
+      #      url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+      #  quote: >
+      #    Short overview of the project (optional)
+      #  description: | # this will include new lines to allow paragraphs
+      #    Description about the work on/with the project
      
       - layout: left
         title: (Sep 2020 - Present) 
         #quote: (Sep 2020 - Present)
-        description: | # this will include new lines to allow paragraphs
-          Extracting Latent Lexical Hierarchy from Word Embeddings: Using word embeddings such as Word2Vec, GloVe & FastText to predict pairwise word hierarchy, with an aim towards an automated graph-based lexical hierarchy database.
-          
+        description: | # this will include new lines
+          **Extracting Latent Lexical Hierarchy from Word Embeddings**: Using word embeddings such as Word2Vec, GloVe & FastText to predict pairwise word hierarchy, with an aim towards an automated graph-based lexical hierarchy database.
+
       - layout: left
-        title:  
+        title: (Mar 2020 - May 2020)
+        #quote: (Oct 2019 - Nov 2019)
+        description: | # this will include new lines to allow paragraphs
+          **Extractive Summarization in Hindi**: Exploring and implementing statistical methods for extractive summarization for a Hindi news dataset.
+
+      - layout: left
+        title: (Oct 2019 - Nov 2019)
         #quote: (Oct 2019 - Nov 2019)
         description: | # this will include new lines to allow paragraphs
           Extractive Summarization in Hindi: Exploring and implementing statistical methods for extractive summarization for a Hindi news dataset.
