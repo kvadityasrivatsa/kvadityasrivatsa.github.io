@@ -52,8 +52,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a 3rd year undergrad student at the [International Institute of Information Technology-Hyderabad](https://www.iiit.ac.in/)(IIIT-H), 
   currently pursuing a Dual Degree towards a Bachelors in Computer Science and Masters in Computational Linguistics.
-  As part of my masters, I am presently a part of the MT-NLP Lab at the Language Technology Research Centre (LTRC) at IIIT-H,
-  with Dr. Manish Shrivastava as my research advisor.
+  As part of my masters, I am presently a part of the [MT-NLP Lab](https://ltrc.iiit.ac.in/nlpmt/) 
+  at the [Language Technology Research Centre](https://ltrc.iiit.ac.in/) (LTRC) at IIIT-H,
+  with [Dr. Manish Shrivastava](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwju5c2Ug_TuAhWFgdgFHcxoAFcQFjAAegQIARAD&url=http%3A%2F%2Fscholar.google.co.in%2Fcitations%3Fuser%3DsIvMnGQAAAAJ%26hl%3Den&usg=AOvVaw2YHxW1do-XZ_ILcU1ZIXPe) as my research advisor.
   [links](http://foobar.com) and highlight things <mark>like this</mark>. 
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -84,9 +85,15 @@ content:
           Description about the work on/with the project
      
       - layout: left
-        title: Extracting Latent Lexical Hie rarchy from Word Embeddings 
-        quote: >
-          (Sep 2020 - Present)
+        title: Extracting Latent Lexical Hierarchy from Word Embeddings 
+        quote: (Sep 2020 - Present)
+        description: | # this will include new lines to allow paragraphs
+          Using word embeddings such as Word2Vec, GloVe & FastText to predict pairwise word hierarchy, \
+          with an aim towards an automated graph-based lexical hierarchy database.
+          
+      - layout: left
+        title: Extractive Summarization in Hindi 
+        quote: (Oct 2019 - Nov 2019)
         description: | # this will include new lines to allow paragraphs
           Using word embeddings such as Word2Vec, GloVe & FastText to predict pairwise word hierarchy, \
           with an aim towards an automated graph-based lexical hierarchy database.
