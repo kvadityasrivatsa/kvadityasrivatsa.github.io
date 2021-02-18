@@ -175,6 +175,7 @@ content:
         caption: (2018 - Present)
         #quote: Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
+          ![IIIT-H Logo](/images/iiith.png "Sardar Patel Vidyalaya")
           Description of qualification
           
       - layout: top-right
@@ -183,6 +184,7 @@ content:
         caption: (2003 - 2018)
         #quote: Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
+          ![SPV Logo](/images/spv.png "Sardar Patel Vidyalaya")
           Description of qualification
           
           
