@@ -91,7 +91,7 @@ content:
         description: | # this will include new lines
           Mukund Choudhary, [KV Aditya Srivatsa](https://kvadityasrivatsa.github.io/), Ishan Sanjeev Upadhyay, Praneet Kumar, Priyanka Srivastava \
           **Is convenient secure ? Exploring the impact of metacognitive beliefs in password selection**\
-          __7th Annual Conference of Congnitive Science (ACCS7)__ 2021 <mark>Conference</mark>
+          *7th Annual Conference of Congnitive Science (ACCS7).* 2021 <mark>Conference</mark>
           
       - layout: left
         title: Oct 2020 - Present 
@@ -121,7 +121,14 @@ content:
         #quote: (Oct 2019 - Nov 2019)
         description: | # this will include new lines to allow paragraphs
           **Extractive Summarization in Hindi**: Exploring and implementing statistical methods for extractive summarization for a Hindi news dataset.
-          
+   
+      - layout: left
+        title: Mar 2019 - Apr 2019
+        #quote: (Oct 2019 - Nov 2019)
+        description: | # this will include new lines to allow paragraphs
+          **Detection of Intra-Word Code-Switching in English-Indian Language Pairs**: Evaluating the performance of Morfessor on detecting  intra-word code-switching in English-Indian language based Twitter data. 
+   
+   
   - title: Experience
     layout: list
     content:
