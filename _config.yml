@@ -65,7 +65,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
-  - title: Projects & Publications # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
     
@@ -86,22 +86,33 @@ content:
       #    Description about the work on/with the project
      
       - layout: left
-        title: (Sep 2020 - Present) 
+        title: Oct 2020 - Present 
+        additional_links:
+          - title:  kvadityasrivatsa/text_simplification
+            icon: fab fa-github
+            url: https://github.com/kvadityasrivatsa/text_simplification
+        #quote: (Sep 2020 - Present)
+        description: | # this will include new lines
+          **Controllable Text Simplification**: Dealing with simplification as a monolingual translation task, while using control tokens to generate fine-tuned output.
+          Exploring both Statistical Machine Translation and Transformer based methods.
+
+      - layout: left
+        title: Sep 2020 - Present 
         #quote: (Sep 2020 - Present)
         description: | # this will include new lines
           **Extracting Latent Lexical Hierarchy from Word Embeddings**: Using word embeddings such as Word2Vec, GloVe & FastText to predict pairwise word hierarchy, with an aim towards an automated graph-based lexical hierarchy database.
 
       - layout: left
-        title: (Mar 2020 - May 2020)
+        title: Mar 2020 - May 2020
+        #quote: (Oct 2019 - Nov 2019)
+        description: | # this will include new lines to allow paragraphs
+          **Evaluating Word Embeddings for Hindi**: Comparing Word2Vec, GloVe & FastText upon their performances on various intrinsic and extrinsic tasks fo Hindi.
+
+      - layout: left
+        title: Oct 2019 - Nov 2019
         #quote: (Oct 2019 - Nov 2019)
         description: | # this will include new lines to allow paragraphs
           **Extractive Summarization in Hindi**: Exploring and implementing statistical methods for extractive summarization for a Hindi news dataset.
-
-      - layout: left
-        title: (Oct 2019 - Nov 2019)
-        #quote: (Oct 2019 - Nov 2019)
-        description: | # this will include new lines to allow paragraphs
-          Extractive Summarization in Hindi: Exploring and implementing statistical methods for extractive summarization for a Hindi news dataset.
           
   - title: Experience
     layout: list
