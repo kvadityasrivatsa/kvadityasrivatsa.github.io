@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   [Dr. Manish Shrivastava](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwju5c2Ug_TuAhWFgdgFHcxoAFcQFjAAegQIARAD&url=http%3A%2F%2Fscholar.google.co.in%2Fcitations%3Fuser%3DsIvMnGQAAAAJ%26hl%3Den&usg=AOvVaw2YHxW1do-XZ_ILcU1ZIXPe) as my research advisor.
   
   Apart from NLP, I have also come to develop an interest in Congnitive Sciences. Recently, more so in how Psycholinguistics can shed light upon how 
-  our meta-cognitive beliefs may affect common behaivioural decisions.
+  our meta-cognitive beliefs may affect common behavioural decisions.
 
 #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #  - Lists
@@ -156,8 +156,10 @@ content:
         caption: (Aug 2020 - Nov 2020)
         link: https://iiit.ac.in
         #quote: Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        description: | # this will include new lines to allow paragrap  
+            **Involving Topics and Resources (Keywords)**: Computational Semantics, Word Sense Disambiguation, WordNet, Indic-WordNet, VerbNet, FrameNet,
+            Formal Notations, Lambda Calculus, Predicate Logic, Semantic Role Labelling, Coomputational Discourse Analysis, Coreference Chains, Anaphora Resolution, 
+            Sentiment Analysis, Computational Pragmatics, Dialogue Systems.
           
           
   - title: Education
