@@ -57,11 +57,11 @@ about_content: | # this will include new lines to allow paragraphs
   with [Dr. Manish Shrivastava](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwju5c2Ug_TuAhWFgdgFHcxoAFcQFjAAegQIARAD&url=http%3A%2F%2Fscholar.google.co.in%2Fcitations%3Fuser%3DsIvMnGQAAAAJ%26hl%3Den&usg=AOvVaw2YHxW1do-XZ_ILcU1ZIXPe) as my research advisor.
   [links](http://foobar.com) and highlight things <mark>like this</mark>. 
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#  - Lists
+#  - Tables
+#  - <a href="google.com">Links</a>
+#  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
 
