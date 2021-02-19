@@ -195,7 +195,7 @@ content:
           
           
   - title: A Little More About Me
-    layout: centre
+    layout: left
     content: | # this will include new lines to allow paragraphs
       Outside of work, I take an immense interest in Astronomy, that led me to be a member of my institue's Astronomy Club as well as
       a part of international events such as [**CanSat**](http://www.cansatcompetition.com/). Additionally, I enjoy playing the flute 
