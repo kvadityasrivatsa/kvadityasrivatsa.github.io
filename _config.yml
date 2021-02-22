@@ -101,7 +101,7 @@ content:
         title: Jan 2021 - Present 
         #quote: (Sep 2020 - Present)
         description: | # this will include new lines
-          **Real-world Referent Identification in Images**: Identifying from an image, the object being referred to in a textual query, using multi-modal embeddings alignments.
+          **Real-world Referent Identification in Images**: Identifying from an image, the object being referred to in a textual query, using multi-modal embeddings alignment.
          
       - layout: left
         title: Oct 2020 - Present 
