@@ -109,7 +109,7 @@ content:
           Exploring both Statistical Machine Translation and Transformer based methods.
 
       - layout: left
-        title: Sep 2020 - Present 
+        title: Jan 2021 - Present 
         #quote: (Sep 2020 - Present)
         description: | # this will include new lines
           **Real-world Referent Identification in Images**: Identifying from an image, the object being referred to in a textual query, using multi-modal embeddings alignments.  
