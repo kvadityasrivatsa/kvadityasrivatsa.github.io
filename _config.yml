@@ -194,6 +194,44 @@ content:
           ![SPV Logo](/images/spv.png "Sardar Patel Vidyalaya")
           
           
+  - title: Awards & Honors
+    layout: list
+    content:
+    
+      - layout: top-left
+        title: Dean's List 
+        sub_title: For ranking among a department's top students by semester-wise grade point
+        caption: Spring 2019-20
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+          ![IIIT-H Logo](/images/iiith.png "International Institute of Information Technology")
+    
+      - layout: top-left
+        title: Dean's List 
+        sub_title: For ranking among a department's top students by semester-wise grade point
+        caption: Monsoon 2019-20
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+          ![IIIT-H Logo](/images/iiith.png "International Institute of Information Technology")
+        
+       - layout: top-left
+        title: Dean's List 
+        sub_title: For ranking among a department's top students by semester-wise grade point
+        caption: Spring 2018-19
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+          ![IIIT-H Logo](/images/iiith.png "International Institute of Information Technology")
+    
+      - layout: top-left
+        title: Dean's List 
+        sub_title: For ranking among a department's top students by semester-wise grade point
+        caption: Monsoon 2018-19
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+          ![IIIT-H Logo](/images/iiith.png "International Institute of Information Technology")
+        
+        
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
