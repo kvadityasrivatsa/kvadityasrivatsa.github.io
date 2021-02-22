@@ -112,6 +112,12 @@ content:
         title: Sep 2020 - Present 
         #quote: (Sep 2020 - Present)
         description: | # this will include new lines
+          **Real-world Referent Identification in Images**: Identifying from an image, the object being referred to in a textual query, using multi-modal embeddings alignments.  
+
+      - layout: left
+        title: Sep 2020 - Present 
+        #quote: (Sep 2020 - Present)
+        description: | # this will include new lines
           **Extracting Latent Lexical Hierarchy from Word Embeddings**: Using word embeddings such as Word2Vec, GloVe & FastText to predict pairwise word hierarchy, with an aim towards an automated graph-based lexical hierarchy database.
 
       - layout: left
