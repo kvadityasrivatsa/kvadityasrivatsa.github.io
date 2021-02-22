@@ -96,7 +96,13 @@ content:
           Mukund Choudhary, [KV Aditya Srivatsa](https://kvadityasrivatsa.github.io/), Ishan Sanjeev Upadhyay, Praneet Kumar, Priyanka Srivastava \
           **Is convenient secure ? Exploring the impact of metacognitive beliefs in password selection**\
           *7th Annual Conference of Congnitive Science (ACCS7).* 2021 <mark>Conference</mark>
-          
+         
+      - layout: left
+        title: Jan 2021 - Present 
+        #quote: (Sep 2020 - Present)
+        description: | # this will include new lines
+          **Real-world Referent Identification in Images**: Identifying from an image, the object being referred to in a textual query, using multi-modal embeddings alignments.
+         
       - layout: left
         title: Oct 2020 - Present 
         additional_links:
@@ -106,13 +112,7 @@ content:
         #quote: (Sep 2020 - Present)
         description: | # this will include new lines
           **Controllable Text Simplification**: Dealing with simplification as a monolingual translation task, while using control tokens to generate fine-tuned output.
-          Exploring both Statistical Machine Translation and Transformer based methods.
-
-      - layout: left
-        title: Jan 2021 - Present 
-        #quote: (Sep 2020 - Present)
-        description: | # this will include new lines
-          **Real-world Referent Identification in Images**: Identifying from an image, the object being referred to in a textual query, using multi-modal embeddings alignments.  
+          Exploring both Statistical Machine Translation and Transformer based methods.  
 
       - layout: left
         title: Sep 2020 - Present 
