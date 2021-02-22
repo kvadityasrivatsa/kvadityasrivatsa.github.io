@@ -160,7 +160,19 @@ content:
             **Involved Topics and Resources (Keywords)**: Computational Semantics, Word Sense Disambiguation, WordNet, Indic-WordNet, VerbNet, FrameNet,
             Formal Notations, Lambda Calculus, Predicate Logic, Semantic Role Labelling, Computational Discourse Analysis, Coreference Chains, Anaphora Resolution, 
             Sentiment Analysis, Computational Pragmatics, Dialogue Systems.
-          
+
+      - layout: right
+        title: Dean's List
+        sub_title: Award for Academic Excellence
+        caption: At IIIT-H
+        #ink: https://iiit.ac.in
+        #quote: Short description of the company (optional)
+        description: | # this will include new lines to allow paragrap
+          Awarded for ranking among the top students of the institute (by semester-wise grade point), for the follwing terms:
+          - **Spring 2019-20**
+          - **Monsoon 2019-20**
+          - **Spring 2018-19**
+          - **Monsoon 2018-19**
           
   - title: Education
     layout: list
