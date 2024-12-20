@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [Resume](http://academicpages.github.io/files/CV_KV_Aditya_v3_13.pdf){:target="_blank"} (Updated Dec 15th, 2024)
+* [Resume](http://kvadityasrivatsa.github.io/files/CV_KV_Aditya_v3_13.pdf){:target="_blank"} (Updated Dec 15th, 2024)
 
 <!-- Education
 ======
