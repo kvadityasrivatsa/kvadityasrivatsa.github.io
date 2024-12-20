@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m KV Aditya Srivatsa, a Research Assistant at the [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), where I collaborate with [Dr. Ekaterina Kochmar](https://ekochmar.github.io/about/) on cutting-edge research at the intersection of Natural Language Processing, Reasoning, and Intelligent Tutoring Systems.
+Hi! I’m KV Aditya Srivatsa, a Research Assistant at the [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), where I work with [Dr. Ekaterina Kochmar](https://ekochmar.github.io/about/) at the intersection of Natural Language Processing, Reasoning, and Intelligent Tutoring Systems.
 
-I hold a B.Tech in Computer Science and an MS in Computational Linguistics from IIIT Hyderabad, graduating as the department rank 1. For my master’s thesis, I worked with [Dr. Manish Shrivastava](https://scholar.google.co.in/citations?user=sIvMnGQAAAAJ&hl=en) on advancing user-centered text simplification and dialogue disentanglement. This work extended into my role as a Research Associate under [Dr. Kamal Karlapalem](https://scholar.google.com/citations?user=KJR00_sAAAAJ&hl=en) as part of the [JP Morgan & Chase Faculty Research Award](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/faculty-research-awards-2021) project, where I focused on simplifying legal and banking documents for everyday users.
+I hold a B.Tech in Computer Science and an MS in Computational Linguistics from IIIT Hyderabad, graduating as the Department Rank 1. For my master’s thesis, I worked with [Dr. Manish Shrivastava](https://scholar.google.co.in/citations?user=sIvMnGQAAAAJ&hl=en) on advancing user-centered text simplification and dialogue disentanglement. This work extended into my role as a Research Associate under [Dr. Kamal Karlapalem](https://scholar.google.com/citations?user=KJR00_sAAAAJ&hl=en) as part of the [JP Morgan & Chase Faculty Research Award](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/faculty-research-awards-2021) project, where I focused on simplifying legal and banking documents for everyday users.
 
 I also spent over two years as an Applied Research Engineer Intern at Apple, where I developed and maintained NLP pipelines for Apple Maps & Services. My contributions impacted products serving users across more than a dozen countries.
 
@@ -17,9 +17,9 @@ Research Interests
 ======
 My research focuses on improving the reasoning abilities of Large Language Models (LLMs) to better bridge the gap between experts and novices in domains like education (teacher-student) and litigation (lawyer-client). Previously, I worked on enhancing the readability and searchability of domain-specific content. Now, I’m tackling the challenges of evaluating and improving how LLMs reason and communicate, with three main areas of interest:
 
-  1. Diagnosing Reasoning Errors – How can LLMs better identify and explain mistakes in reasoning chains, pinpointing both the location and type of error?
-  1. Challenging Reasoning Tasks – How do LLMs perform on complex problems, such as multi-step math word problems or linguistic puzzles, and where do they fall short?
-  1. Generating Actionable Feedback – Can LLMs provide meaningful feedback for self-correction and facilitate effective teacher-student exchanges?
+  1. **Challenging Reasoning Tasks** – How do LLMs perform on complex problems, such as multi-step math word problems or linguistic puzzles, and where do they fall short?
+  1. **Diagnosing Reasoning Errors** – How can LLMs better identify and explain mistakes in reasoning chains, pinpointing both the location and type of error?
+  1. **Generating Actionable Feedback** – Can LLMs provide meaningful feedback for self-correction and facilitate effective teacher-student exchanges?
 
 Ultimately, I aim to refine LLMs into tools that are not only intelligent but also reliable and insightful, capable of supporting users in learning, reasoning, and collaboration.
 
