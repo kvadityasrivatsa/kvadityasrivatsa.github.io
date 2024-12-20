@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/harnessing-the-power
 excerpt: 'Explores the feasibility of routing input queries to a single most suitable LLM for reasoning tasks, highlighting its potential and limitations for efficient capability utilization.'
-date: 2024-06-11
+date: 2024-06-10
 venue: 'Proceedings of the Fifth Workshop on Insights from Negative Results in NLP -- NAACL 2024'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://aclanthology.org/2024.insights-1.15/'
